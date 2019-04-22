@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+d:\kostia\projects\laba_4\consoleapplication1\consoleapplication1\consoleapplication1.cpp(23): warning C4305: инициализация: усечение из "__int64" в "int"
+d:\kostia\projects\laba_4\consoleapplication1\consoleapplication1\consoleapplication1.cpp(23): warning C4309: инициализация: усечение константного значения
+d:\kostia\projects\laba_4\consoleapplication1\consoleapplication1\consoleapplication1.cpp(24): warning C4305: инициализация: усечение из "__int64" в "int"
+d:\kostia\projects\laba_4\consoleapplication1\consoleapplication1\consoleapplication1.cpp(24): warning C4309: инициализация: усечение константного значения
+  ConsoleApplication1.vcxproj -> D:\Kostia\Projects\Laba_4\ConsoleApplication1\Debug\ConsoleApplication1.exe
